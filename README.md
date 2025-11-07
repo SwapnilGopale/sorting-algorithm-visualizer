@@ -74,4 +74,4 @@ The visualizer clearly demonstrates the differences in performance between these
 *Note: $N$ is the number of elements, $K$ is the range of input values or the number of digits.*
 
 ## Demo
-https://github.com/SwapnilGopale/sorting-algorithm-visualizer/tree/master
+https://swapnilgopale.github.io/sorting-algorithm-visualizer/
