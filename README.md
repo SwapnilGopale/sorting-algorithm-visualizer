@@ -72,3 +72,6 @@ The visualizer clearly demonstrates the differences in performance between these
 | **Radix Sort** | $O(NK)$ | $O(NK)$ | $O(NK)$ | $O(N+K)$ |
 | **Bucket Sort** | $O(N+K)$ | $O(N)$ | $O(N^2)$ | $O(N+K)$ |
 *Note: $N$ is the number of elements, $K$ is the range of input values or the number of digits.*
+
+## Demo
+https://github.com/SwapnilGopale/sorting-algorithm-visualizer/tree/master
